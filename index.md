@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Добро пожаловать на мою страницу
 
-I'm glad you are here. I plan to talk about ...
+Я обучаюсь создавать сьраницы для проектов
